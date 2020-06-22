@@ -1,0 +1,27 @@
+{
+  "name": "qa-workshops-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "arrays-1": "node 1-arrays/1.js",
+    "arrays-2": "node 1-arrays/2.js",
+    "arrays-3": "node 1-arrays/3.js",
+    "arrays-4": "node 1-arrays/4.js",
+    "arrays-5": "node 1-arrays/5.js",
+    "objects-1": "node 2-objects/1.js",
+    "objects-2": "node 2-objects/2.js",
+    "objects-3": "node 2-objects/3.js",
+    "objects-4": "node 2-objects/4.js",
+    "arrow-functions-1": "node 3-arrow-functions/1.js",
+    "logic-operators-1": "node 4-logic-operators/1.js",
+    "control-flow-1": "node 5-control-flow/1.js",
+    "control-flow-2": "node 5-control-flow/2.js",
+    "control-flow-3": "node 5-control-flow/3.js",
+    "control-flow-4": "node 5-control-flow/4.js",
+    "array-functions-1": "node 6-array-functions/1.js",
+    "array-functions-2": "node 6-array-functions/2.js",
+    "array-functions-3": "node 6-array-functions/3.js",
+    "array-functions-4": "node 6-array-functions/4.js"
+  }
+}
